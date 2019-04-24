@@ -17,7 +17,7 @@ Find below the summary of this quest:
 debug a block of code because of that.
 * Try! Try! Try! Until you can't get away with syntax anymore. It's only you, the IDE and your computer.That's how I tryly understood the Do Not Repeat yourself acronym today.
 
-PS: the auestions below are the next step that can be taken for our dataset.
+PS: the questions below are the next step that can be taken for our dataset.
 Determine if show or ask posts receive more points on average.
 Determine if posts created at a certain time are more likely to receive more points.
 Compare your results to the average number of comments and points other posts receive.
